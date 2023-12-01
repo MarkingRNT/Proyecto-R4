@@ -1,0 +1,105 @@
+style
+::content{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/img/gradienteverde.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: #000; /* Cambiado a color de texto negro para mayor contraste con el fondo */
+}
+
+.head {
+    background-color: rgba(255, 255, 255, 0.8); /* Añadido un fondo semitransparente para el encabezado */
+    padding: 10px;
+    text-align: center; /* Centrar el contenido dentro de .head */
+}
+
+.logo {
+    width: 20%; /* Hacer el logo más pequeño (ajusta el valor según sea necesario) */
+    margin: 0 auto; /* Centrar el logo utilizando márgenes automáticos */
+}
+
+.content {
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    text-transform: uppercase;
+}
+.jofiel {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.jofiel .title {
+    background-color: #f0f0f0; /* Fondo gris claro para el área de información del integrante */
+    padding: 10px;
+}
+.jofiel ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.jofiel li {
+    margin-bottom: 5px;
+}
+.enrique{
+    margin-top: 20px;
+    text-align: center;
+}
+.enrique .title{
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+.enrique ul{
+    list-style-type: none;
+    padding: 0;
+}
+.enrique li{
+    margin-bottom: 5px;
+}
+.santy{
+    margin-top: 20px;
+    text-align: center;
+}
+.santy .title{
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+.santy ul{
+    list-style-type: none;
+    padding: 0;
+}
+.santy li{
+    margin-bottom: 5px;
+}
+.lucas{
+    margin-top: 20px;
+    text-align: center;
+}
+.lucas .title{
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+.lucas ul{
+    list-style-type: none;
+    padding: 0;
+}
+.lucas li{
+    margin-bottom: 5px;
+}
