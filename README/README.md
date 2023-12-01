@@ -10,7 +10,15 @@ Informe final sobre el Proyecto R4
 
 
 
-https://github.com/MarkingRNT/Proyecto-R4/assets/83605347/590a056a-b9e7-49db-b19a-63506bbbeac4
+https://github.com/MarkingRNT/Proyecto-R4/assets/83605347/ef5a538f-7a3c-47a4-921f-76a452d9d7b6
+
+
+
+
+
+
+
+
 
 
 
