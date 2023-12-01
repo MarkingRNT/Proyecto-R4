@@ -7,3 +7,8 @@ Informe final sobre el Proyecto R4
 [COMISIÓN A]
 
 - WEB: *file:///C:/Users/estudiante/Documents/D4t4/proyecto%20R4/index%20basico.html*
+
+
+
+https://github.com/MarkingRNT/Proyecto-R4/assets/83605347/80fd96fb-1ce9-40bb-8bbc-bb56241c0b0b
+
